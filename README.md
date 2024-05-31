@@ -1,7 +1,5 @@
 # 🌟 My Portfolio
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://app.netlify.com/sites/myportfoliogopi/deploys)
-
 Welcome to my portfolio! This site showcases my skills, projects, and experience as a developer. Check it out [here](https://myportfoliogopi.netlify.app/).
 
 ---
